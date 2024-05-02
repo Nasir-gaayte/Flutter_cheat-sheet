@@ -6,10 +6,23 @@ import 'package:widgets/pages/richTextPage.dart';
 import 'package:widgets/pages/sliverAppBarPage.dart';
 import 'package:widgets/pages/timerPage.dart';
 import 'package:widgets/pages/topBarPage.dart';
-import 'package:widgets/theme/lightMode.dart';
+import 'package:widgets/theme/appThemeMode.dart';
 
 void main() {
-  runApp(const MyApp());
+  Provider.debugCheckInvalidValueType = null;
+  runApp(
+    MultiProvider(
+      providers: [
+        Provider<AppThemeMode>(
+          create: (context) => AppThemeMode(),
+        ),
+        Provider<NoteData>(
+          create: (context) => NoteData(),
+        ),
+      ],
+      child: MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -18,13 +31,10 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (context) => NoteData(),
-      child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        theme: LightMode().lightMode,
-        home: TopBarPage(),
-      ),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: Provider.of<AppThemeMode>(context).themeMode,
+      home: TopBarPage(),
     );
   }
 }
