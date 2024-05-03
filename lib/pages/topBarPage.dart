@@ -1,7 +1,5 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+
 import 'package:provider/provider.dart';
 import 'package:widgets/pages/NotePage.dart';
 import 'package:widgets/pages/bottomNavBar.dart';
@@ -12,6 +10,7 @@ import 'package:widgets/pages/slideToActPage.dart';
 import 'package:widgets/pages/sliverAppBarPage.dart';
 import 'package:widgets/pages/themeModePage.dart';
 import 'package:widgets/pages/timerPage.dart';
+import 'package:widgets/pages/videoPlayerPage.dart';
 import 'package:widgets/theme/appThemeMode.dart';
 
 class TopBarPage extends StatefulWidget {
@@ -86,7 +85,7 @@ class _TopBarPageState extends State<TopBarPage> {
                   icon: Icon(Icons.color_lens),
                 ),
                 Tab(
-                  icon: Icon(Icons.do_disturb),
+                  icon: Icon(Icons.music_note),
                 ),
                 Tab(
                   icon: Icon(Icons.do_disturb),
@@ -111,7 +110,7 @@ class _TopBarPageState extends State<TopBarPage> {
                   NotePage(),
                   SlideToActPage(),
                   ThemeModePage(),
-                  Column(),
+                  VideoPlayerPage(),
                   Column(),
                   Column(),
                   Column(),

@@ -12,8 +12,8 @@
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/i1.json
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/i6.gif
-/home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/i1.gif
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/i4.gif
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/i2.gif
 /home/nasir/work/final app/ui/widgets/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/i3.gif

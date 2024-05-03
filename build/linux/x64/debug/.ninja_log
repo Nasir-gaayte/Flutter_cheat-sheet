@@ -1,123 +1,65 @@
 # ninja log v5
-11472	11778	1714374017579544987	plugins/url_launcher_linux/liburl_launcher_linux_plugin.so	feb54249d8c03ee9
-8224	8829	1714461894915010696	plugins/super_native_extensions/libsuper_native_extensions_plugin.so	f55abbc5ce746df1
-7569	11472	1714374017270542947	plugins/url_launcher_linux/CMakeFiles/url_launcher_linux_plugin.dir/url_launcher_plugin.cc.o	d390e51c64d4da1f
-8223	9547	1714461895629024391	CMakeFiles/widgets.dir/my_application.cc.o	d4f9659a1f6e329d
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1603ef8bff3ea402
-8	8223	0	flutter/_phony_	1603ef8bff3ea402
-7567	12161	1714374017951547443	plugins/irondash_engine_context/CMakeFiles/irondash_engine_context_plugin.dir/irondash_engine_context_plugin.cc.o	d47d5c65ed75be8f
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1603ef8bff3ea402
-9790	10141	0	CMakeFiles/install.util	ecd22112ccda10aa
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1603ef8bff3ea402
-9547	9790	1714461895874029090	intermediates_do_not_run/widgets	b4fffe63d26edeef
-7566	11443	1714374017235542716	CMakeFiles/widgets.dir/main.cc.o	d4a63df5f39b623a
-7568	11442	1714374017235542716	plugins/super_native_extensions/CMakeFiles/super_native_extensions_plugin.dir/super_native_extensions_plugin.cc.o	a5523ff11733673c
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_value.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1603ef8bff3ea402
-8224	9534	1714461895617024161	CMakeFiles/widgets.dir/flutter/generated_plugin_registrant.cc.o	491946d9fa18e700
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_view.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1603ef8bff3ea402
-8	677	1714461886732853698	plugins/super_native_extensions/_phony_	423d1ef6dae4b467
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/libflutter_linux_gtk.so	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1603ef8bff3ea402
-8	677	1714461886732853698	plugins/super_native_extensions/libsuper_native_extensions.so	423d1ef6dae4b467
-12161	12307	1714374018108548480	plugins/irondash_engine_context/libirondash_engine_context_plugin.so	3582db4a7e519b7f
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1603ef8bff3ea402
-8	8223	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1603ef8bff3ea402
-238	2356	1714491157702179426	plugins/super_native_extensions/libsuper_native_extensions.so	423d1ef6dae4b467
-238	2356	1714491157702179426	plugins/super_native_extensions/_phony_	423d1ef6dae4b467
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/libflutter_linux_gtk.so	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_value.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_view.h	1603ef8bff3ea402
-238	24071	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1603ef8bff3ea402
-238	24071	0	flutter/_phony_	1603ef8bff3ea402
-24075	26104	1714491181562552051	plugins/super_native_extensions/libsuper_native_extensions_plugin.so	f55abbc5ce746df1
-24074	30142	1714491185595615004	CMakeFiles/widgets.dir/flutter/generated_plugin_registrant.cc.o	491946d9fa18e700
-24072	30157	1714491185606615175	CMakeFiles/widgets.dir/my_application.cc.o	d4f9659a1f6e329d
-30157	31045	1714491186505629207	intermediates_do_not_run/widgets	b4fffe63d26edeef
-31045	31616	0	CMakeFiles/install.util	ecd22112ccda10aa
-4	805	1714492656147104423	plugins/super_native_extensions/libsuper_native_extensions.so	423d1ef6dae4b467
-4	805	1714492656147104423	plugins/super_native_extensions/_phony_	423d1ef6dae4b467
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/libflutter_linux_gtk.so	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_value.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_view.h	1603ef8bff3ea402
-4	11054	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1603ef8bff3ea402
-4	11054	0	flutter/_phony_	1603ef8bff3ea402
-11055	11338	1714492666719303999	plugins/super_native_extensions/libsuper_native_extensions_plugin.so	f55abbc5ce746df1
-11055	11945	1714492667324315414	CMakeFiles/widgets.dir/flutter/generated_plugin_registrant.cc.o	491946d9fa18e700
-11054	11976	1714492667355315999	CMakeFiles/widgets.dir/my_application.cc.o	d4f9659a1f6e329d
-11976	12179	1714492667561319886	intermediates_do_not_run/widgets	b4fffe63d26edeef
-12179	12414	0	CMakeFiles/install.util	ecd22112ccda10aa
-247	2410	1714636512258767899	plugins/super_native_extensions/libsuper_native_extensions.so	423d1ef6dae4b467
-247	2410	1714636512258767899	plugins/super_native_extensions/_phony_	423d1ef6dae4b467
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/libflutter_linux_gtk.so	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1603ef8bff3ea402
 244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1603ef8bff3ea402
+12161	12307	1714374018108548480	plugins/irondash_engine_context/libirondash_engine_context_plugin.so	3582db4a7e519b7f
+247	2410	1714636512258767899	plugins/super_native_extensions/libsuper_native_extensions.so	423d1ef6dae4b467
 244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1603ef8bff3ea402
+27508	28172	0	CMakeFiles/install.util	ecd22112ccda10aa
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1603ef8bff3ea402
 244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1603ef8bff3ea402
 244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_value.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_view.h	1603ef8bff3ea402
-244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1603ef8bff3ea402
+7567	12161	1714374017951547443	plugins/irondash_engine_context/CMakeFiles/irondash_engine_context_plugin.dir/irondash_engine_context_plugin.cc.o	d47d5c65ed75be8f
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1603ef8bff3ea402
 244	20644	0	flutter/_phony_	1603ef8bff3ea402
-20647	22782	1714636532712777523	plugins/super_native_extensions/libsuper_native_extensions_plugin.so	f55abbc5ce746df1
-20647	26391	1714636536318604755	CMakeFiles/widgets.dir/flutter/generated_plugin_registrant.cc.o	491946d9fa18e700
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1603ef8bff3ea402
 20645	26415	1714636536341603655	CMakeFiles/widgets.dir/my_application.cc.o	d4f9659a1f6e329d
+7569	11472	1714374017270542947	plugins/url_launcher_linux/CMakeFiles/url_launcher_linux_plugin.dir/url_launcher_plugin.cc.o	d390e51c64d4da1f
+20647	22782	1714636532712777523	plugins/super_native_extensions/libsuper_native_extensions_plugin.so	f55abbc5ce746df1
+11472	11778	1714374017579544987	plugins/url_launcher_linux/liburl_launcher_linux_plugin.so	feb54249d8c03ee9
+7566	11443	1714374017235542716	CMakeFiles/widgets.dir/main.cc.o	d4a63df5f39b623a
 26415	27508	1714636537440551109	intermediates_do_not_run/widgets	b4fffe63d26edeef
-27508	28172	0	CMakeFiles/install.util	ecd22112ccda10aa
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1603ef8bff3ea402
+7568	11442	1714374017235542716	plugins/super_native_extensions/CMakeFiles/super_native_extensions_plugin.dir/super_native_extensions_plugin.cc.o	a5523ff11733673c
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_value.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1603ef8bff3ea402
+20647	26391	1714636536318604755	CMakeFiles/widgets.dir/flutter/generated_plugin_registrant.cc.o	491946d9fa18e700
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_view.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1603ef8bff3ea402
+247	2410	1714636512258767899	plugins/super_native_extensions/_phony_	423d1ef6dae4b467
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1603ef8bff3ea402
+244	20644	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/libflutter_linux_gtk.so	1603ef8bff3ea402
+82	1393	1714742612640162332	plugins/super_native_extensions/libsuper_native_extensions.so	423d1ef6dae4b467
+82	1393	1714742612640162332	plugins/super_native_extensions/_phony_	423d1ef6dae4b467
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/libflutter_linux_gtk.so	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_value.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/fl_view.h	1603ef8bff3ea402
+82	15606	0	/home/nasir/work/final app/ui/widgets/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1603ef8bff3ea402
+82	15606	0	flutter/_phony_	1603ef8bff3ea402
+15608	16924	1714742628239304294	plugins/super_native_extensions/libsuper_native_extensions_plugin.so	f55abbc5ce746df1
+15608	18874	1714742630184566210	CMakeFiles/widgets.dir/flutter/generated_plugin_registrant.cc.o	491946d9fa18e700
+15607	18876	1714742630185566345	CMakeFiles/widgets.dir/my_application.cc.o	d4f9659a1f6e329d
+18876	19351	1714742630663630533	intermediates_do_not_run/widgets	b4fffe63d26edeef
+19351	19593	0	CMakeFiles/install.util	ecd22112ccda10aa
