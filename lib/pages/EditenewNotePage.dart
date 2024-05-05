@@ -74,7 +74,6 @@ class _NewNotePageState extends State<EditeNewNotePage> {
               child: QuillEditor.basic(
                 configurations: QuillEditorConfigurations(
                   controller: _controller,
-                  readOnly: false,
                   sharedConfigurations: const QuillSharedConfigurations(
                     locale: Locale('de'),
                   ),
