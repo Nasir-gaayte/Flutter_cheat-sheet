@@ -11,6 +11,7 @@ import 'package:widgets/pages/slideToActPage.dart';
 import 'package:widgets/pages/sliverAppBarPage.dart';
 import 'package:widgets/pages/themeModePage.dart';
 import 'package:widgets/pages/timerPage.dart';
+import 'package:widgets/pages/toggleSwitchPage.dart';
 import 'package:widgets/pages/videoPlayerPage.dart';
 import 'package:widgets/theme/appThemeMode.dart';
 
@@ -76,7 +77,7 @@ class _TopBarPageState extends State<TopBarPage> {
         ),
       ),
       child: DefaultTabController(
-        length: 13,
+        length: 17,
         child: Scaffold(
           appBar: AppBar(
             title: const Center(
@@ -137,6 +138,18 @@ class _TopBarPageState extends State<TopBarPage> {
                     icon: Icon(Icons.music_note),
                   ),
                   Tab(
+                    icon: Icon(Icons.toggle_on),
+                  ),
+                  Tab(
+                    icon: Icon(Icons.do_disturb),
+                  ),
+                  Tab(
+                    icon: Icon(Icons.do_disturb),
+                  ),
+                  Tab(
+                    icon: Icon(Icons.do_disturb),
+                  ),
+                  Tab(
                     icon: Icon(Icons.do_disturb),
                   ),
                   Tab(
@@ -160,6 +173,10 @@ class _TopBarPageState extends State<TopBarPage> {
                     SlideToActPage(),
                     ThemeModePage(),
                     VideoPlayerPage(),
+                    ToggerPage(),
+                    Column(),
+                    Column(),
+                    Column(),
                     Column(),
                     Column(),
                     Column(),
