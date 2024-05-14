@@ -9,6 +9,7 @@ import 'package:widgets/pages/introductionPage.dart';
 import 'package:widgets/pages/richTextPage.dart';
 import 'package:widgets/pages/slideToActPage.dart';
 import 'package:widgets/pages/sliverAppBarPage.dart';
+import 'package:widgets/pages/stopWatchPage.dart';
 import 'package:widgets/pages/themeModePage.dart';
 import 'package:widgets/pages/timerPage.dart';
 import 'package:widgets/pages/toggleSwitchPage.dart';
@@ -141,7 +142,7 @@ class _TopBarPageState extends State<TopBarPage> {
                     icon: Icon(Icons.toggle_on),
                   ),
                   Tab(
-                    icon: Icon(Icons.do_disturb),
+                    icon: Icon(Icons.watch_sharp),
                   ),
                   Tab(
                     icon: Icon(Icons.do_disturb),
@@ -174,7 +175,7 @@ class _TopBarPageState extends State<TopBarPage> {
                     ThemeModePage(),
                     VideoPlayerPage(),
                     ToggerPage(),
-                    Column(),
+                    StopWatchPage(),
                     Column(),
                     Column(),
                     Column(),
